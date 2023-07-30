@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kedai Bunga XYZ</title>
+    </head>
+    <body>
+        <h1>Selamat Datang ke Kedai</h1>
+        <h2>Senarai Produk</h2>
+        <div class="produk">
+            <img src="c:\Users\bagen\Pictures\Saved Pictures\gambar mawar.jpg" alt="Bunga Mawar">
+            <h3>Bunga Mawar</h3>
+            <P>Harga:RM10.00</P>
+            <button>Tambah ke Troli</button>
+        </div>
+        <div class="produk">
+            <img src="c:\Users\bagen\Pictures\Saved Pictures\bunga anggerik.JPG" alt="Bunga Anggereik">
+            <h3>Bunga Anggerrik</h3>
+            <p>Harga RM15.00</p>
+            <button>Tambah ke Troli</button>
+        </div>
+    </body>
+</html>
